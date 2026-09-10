@@ -14,8 +14,8 @@ Performance Index:
 The Performance Index is a measure that represents a student's academic performance. It indicates the overall performance level of the student based on the relevant academic factors.
 
 ## Dataset
-Student Performance
-https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+Student Performance Data Set (
+https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression )
 Accessed  21 August 2026
 
 ## Tools
