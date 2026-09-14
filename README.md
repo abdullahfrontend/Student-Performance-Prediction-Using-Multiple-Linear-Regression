@@ -3,11 +3,11 @@ This project uses Linear Regression to predict students' academic performance. A
 
 ## Variables:
 
-  Hours Studied: The total number of hours spent studying by each student.
-  Previous Scores: The scores obtained by students in previous tests.
-  Extracurricular Activities: Whether the student participates in extracurricular activities (1 for Yes or 0 for No).
-  Sleep Hours: The average number of hours of sleep the student had per day.
-  Sample Question Papers Practiced: The number of sample question papers the student practiced.
+Hours Studied: The total number of hours spent studying by each student.  
+Previous Scores: The scores obtained by students in previous tests.
+Extracurricular Activities: Whether the student participates in extracurricular activities (1 for Yes or 0 for No).
+Sleep Hours: The average number of hours of sleep the student had per day.
+Sample Question Papers Practiced: The number of sample question papers the student practiced.
 
 ## Target Variable:
 Performance Index:
