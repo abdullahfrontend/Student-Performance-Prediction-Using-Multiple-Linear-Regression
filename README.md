@@ -1,7 +1,7 @@
 # Student Performance Prediction Using Multiple Linear Regression
 This project uses Multiple Linear Regression to predict students' academic performance. A Multiple Linear Regression model is trained using Python, Pandas, and Scikit-learn and evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² (R-squared) score.
 
-## Variables:
+## Variables
 
 **Hours Studied:** The total number of hours spent studying by each student.  
 **Previous Scores:** The scores obtained by students in previous tests.  
@@ -9,7 +9,7 @@ This project uses Multiple Linear Regression to predict students' academic perfo
 **Sleep Hours:** The average number of hours of sleep the student had per day.  
 **Sample Question Papers Practiced:** The number of sample question papers the student practiced.  
 
-## Target Variable:
+## Target Variable
 Performance Index:
 The Performance Index is a measure that represents a student's academic performance. It indicates the overall performance level of the student based on the relevant academic factors.
 
