@@ -20,3 +20,4 @@ Accessed  21 August 2026
 1. Python
 2. Pandas
 3. Scikit-Learn
+4. Numpy
